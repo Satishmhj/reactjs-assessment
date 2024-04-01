@@ -1,0 +1,9 @@
+.header {
+    color: white;
+}
+
+.header:hover {
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: 50px;
+}

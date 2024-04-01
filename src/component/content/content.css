@@ -1,0 +1,9 @@
+.img-caracoule {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
+p {
+    color:  #565555;
+}
+
